@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Nicolas Bueno  
 
-💻 **Líder de NOC na Nelogica**  
+💻 **Monitoring Lead na Nelogica**  
 📊 **Analista de Dados e Cloud Enthusiast**  
 🚀 Apaixonado por **observabilidade, automação e confiabilidade de sistemas críticos**  
 
