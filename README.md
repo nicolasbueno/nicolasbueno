@@ -1,43 +1,40 @@
-# 👋 Olá, eu sou o Nicolas Bueno  
+# 👋 Hi, I'm Nicolas Bueno  
 
-💻 **Monitoring Lead na Nelogica**  
-📊 **Analista de Dados e Cloud Enthusiast**  
-🚀 Apaixonado por **observabilidade, automação e confiabilidade de sistemas críticos**  
+💻 **NOC Team Lead at Nelogica**  
+📊 **Data Analyst & Cloud Enthusiast**  
+🚀 Passionate about **observability, automation, and critical systems reliability**  
 
----
-
-## 🌐 Sobre mim
-Sou graduado em **Ciência da Computação**, com **Pós-graduação em Data Science** e **Pós-graduação em Projetos de Cloud Computing**.  
-Tenho experiência prática com **Azure, Python, Power BI e SQL Server**, além de liderança em times de **NOC e operações 24x7** em ambientes de alta criticidade (bolsa de valores e pagamentos).  
-
-Atualmente, busco evoluir em duas frentes:  
-- **Cloud & SRE** → Automação, observabilidade, confiabilidade.  
-- **Dados & BI** → Transformando dados em insights para decisões.  
+📖 Read this in [Português](README.pt-BR.md)  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🌐 About Me
+I hold a degree in **Computer Science**, a **Postgraduate degree in Data Science**, and a **Postgraduate degree in Cloud Computing Projects**.  
+I have hands-on experience with **Azure, Python, Power BI, and SQL Server**, as well as leadership in **NOC and 24x7 operations teams** in high-criticality environments (stock market and payments).  
+
+Currently, I’m focusing on two main paths:  
+- **Cloud & SRE** → Automation, observability, reliability.  
+- **Data & BI** → Turning data into insights for decision-making.  
+
+---
+
+## 🛠️ Skills
 - ☁️ **Cloud**: Microsoft Azure (VMs, Networking, Pipelines)  
-- ⚙️ **Infra**: PowerShell, Docker, Terraform (em evolução)  
-- 🐍 **Linguagens**: Python, SQL, C
-- 📊 **Dados**: Power BI, Excel avançado, ETL  
-- 🔎 **Monitoramento**: Zabbix, Grafana, observabilidade em larga escala  
+- ⚙️ **Infra**: PowerShell, Docker, Terraform (learning)  
+- 🐍 **Languages**: Python, SQL, C  
+- 📊 **Data**: Power BI, Advanced Excel, ETL  
+- 🔎 **Monitoring**: Zabbix, Grafana, large-scale observability  
 
 ---
 
-## 📌 Projetos em destaque *(em construção)*
-- 🔹 **[SRE Azure Stack](#)** – Provisionamento em Azure com Terraform + monitoramento com Grafana/Prometheus.  
-- 🔹 **[ETL Pipeline Financeiro](#)** – Coleta de dados financeiros públicos, tratamento em Python e visualização em Power BI.  
-- 🔹 **[Zabbix Automation](#)** – Scripts para exportação e análise de métricas em larga escala.  
-
-*(mais projetos serão adicionados em breve)*  
+## 📌 Featured Projects
+- 🔹 [Zabbix & Jira ETL](https://github.com/nicolasbueno/zabbix-jira-etl) – ETL automation with APIs.  
+- 🔹 [ETL for BI Dashboards](#) – Python scripts for data pipelines feeding BI.  
+- 🔹 [Cloud Infrastructure Demo](#) – Terraform + Azure + monitoring stack.  
 
 ---
 
-## 📫 Conecte-se comigo
+## 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-bueno)  
-- 📧 **ns.bueno@hotmail.com** (principal)  
+- 📧 **ns.bueno@hotmail.com** (primary)  
 - 📧 nicolas.santos.bueno@gmail.com
-
----
-⭐ Obrigado por visitar meu perfil!  
