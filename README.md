@@ -19,7 +19,7 @@ Atualmente, busco evoluir em duas frentes:
 ## 🛠️ Tecnologias e Ferramentas
 - ☁️ **Cloud**: Microsoft Azure (VMs, Networking, Pipelines)  
 - ⚙️ **Infra**: PowerShell, Docker, Terraform (em evolução)  
-- 🐍 **Linguagens**: Python, SQL  
+- 🐍 **Linguagens**: Python, SQL, C
 - 📊 **Dados**: Power BI, Excel avançado, ETL  
 - 🔎 **Monitoramento**: Zabbix, Grafana, observabilidade em larga escala  
 
@@ -36,7 +36,8 @@ Atualmente, busco evoluir em duas frentes:
 
 ## 📫 Conecte-se comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-bueno)  
-- 📧 nicolas.santos.bueno@gmail.com  
+- 📧 **ns.bueno@hotmail.com** (principal)  
+- 📧 nicolas.santos.bueno@gmail.com
 
 ---
 ⭐ Obrigado por visitar meu perfil!  
